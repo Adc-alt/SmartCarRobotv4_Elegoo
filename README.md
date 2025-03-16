@@ -38,4 +38,4 @@ This project implements the control of an Elegoo Smart Robot Car V4 using Arduin
 1. Install PlatformIO in VS Code
 2. Clone this repository
 3. Open the project in PlatformIO
-4. Compile and upload the code to Arduino 
+4. Compile and upload the code to Arduino
