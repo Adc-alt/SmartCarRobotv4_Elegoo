@@ -1,7 +1,6 @@
 #include <Arduino.h>
 #include <SmartRobotCar.h>
-#include "avr8-stub.h"
-
+ 
 SmartRobotCar MyCar;
 
 void setup()
@@ -13,7 +12,7 @@ void setup()
  
 void loop() 
 {
-  // Demostración de movimientos básicos / Basic movements demonstration
+  // Demostración de movimientos básicos / Basic movements demonstration 
   Serial.println("🚗 Moviendo hacia adelante / Moving forward");
   MyCar.moveForward();
   delay(2000);
